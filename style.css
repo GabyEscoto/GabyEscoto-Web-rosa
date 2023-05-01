@@ -1,0 +1,29 @@
+/*Para comentario*/
+body{
+/* RGB red green blue*/
+    background-color: rgb(255, 71, 169);
+    color: rgb(255, 255, 255);
+    font-family:'Courier New', Courier, monospace;
+}
+
+p{
+    color: rgb(70, 132, 135);
+}
+
+h1{
+    color: darkmagenta;
+}
+
+/*Para agregar clase, ponemos (.) antes del nombre*/
+
+.titulo-web{
+    color: darkslategray;
+    font-size: medium;
+}
+
+img{
+    width: 400px; /*widdth - ancho*/
+}
+
+/*.big-bang*/
+
